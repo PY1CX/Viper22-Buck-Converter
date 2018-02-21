@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Viper22PS.PcbDoc]
+   Generated File[Viper22PS-Plated.TXT]
+   Generated File[Viper22PS.DRL]
+   Generated File[Viper22PS-BoardEdgeRout.TXT]
+   Generated File[Viper22PS.LDP]
+   Generated File[Viper22PS.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 03:18:03 On 23/05/2017
